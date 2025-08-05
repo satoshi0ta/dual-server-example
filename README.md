@@ -1,6 +1,6 @@
 # Dual Server Example
 
-grapi を使わずに、一つの Go アプリケーションで gRPC と HTTP サーバーを同居させる最小構成の例。
+一つの Go アプリケーションで gRPC と HTTP サーバーを同居させる最小構成の例。
 
 ## 構成
 
